@@ -20,5 +20,6 @@ The G(n) function can be defined as the number of queens which are correctly pla
 
 then only one queen is correctly placed while, three queens are in ATTACK mode.
 
-Reference image
-8queen.png
+To solve this problem correctly. define the Heuristic function correctly, Apply A* agorithm to it and print the following information for each trial. Number of nodes explored, Optimal path cost, Total time taken for execution.
+
+
